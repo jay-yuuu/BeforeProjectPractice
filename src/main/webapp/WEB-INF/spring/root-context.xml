@@ -14,7 +14,7 @@
 
 	<!-- web scan and autoproxy 설정 -->
 	<context:component-scan
-		base-package="tommy.spring.web">
+		base-package="com.spring.byla">
 	</context:component-scan>
 	<aop:aspectj-autoproxy></aop:aspectj-autoproxy>
 
